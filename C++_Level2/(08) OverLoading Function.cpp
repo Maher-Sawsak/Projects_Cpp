@@ -6,12 +6,12 @@
 
 - what is the problem if we just have one name of function for all of them ? !
 
-- some programming languages don’t allow having the same function name, but in C++ we can.
+- some programming languages donâ€™t allow having the same function name, but in C++ we can.
 
 
 - so we can name all functions to be "MySum".
 
--- - that’s called overloading.-- -
+-- - thatâ€™s called overloading.-- -
 */
 
 #include <iostream>
